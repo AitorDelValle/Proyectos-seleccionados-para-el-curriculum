@@ -1,0 +1,1 @@
+Para iniciar el programa, tienes que abrir un cmd en este directorio y escribir "python Enigma_v1.py", con python instalado. Pero antes de eso, debes escribir en ese mismo cmd "pip install -r requirements.txt"

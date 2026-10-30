@@ -1,0 +1,1 @@
+Para iniciar el juego, tienes que abrir un cmd en este directorio y escribir "python Minecraft_cutre.py", con python instalado. Pero antes de eso, debes escribir en ese mismo cmd "pip install -r requirements.txt"
